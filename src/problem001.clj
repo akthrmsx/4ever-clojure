@@ -2,6 +2,6 @@
 ;;
 ;; https://4clojure.oxal.org/#/problem/1
 
-(ns problem1)
+(ns problem001)
 
 (assert (= true true))

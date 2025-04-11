@@ -2,6 +2,6 @@
 ;;
 ;; https://4clojure.oxal.org/#/problem/9
 
-(ns problem9)
+(ns problem009)
 
 (assert (= #{1 2 3 4} (conj #{1 4 3} 2)))
